@@ -1,8 +1,0 @@
-drwxr-xr-x   7 sgtransfer psacln       4096 Mar 23  2017 .
-drwxr-xr-x  11 sgtransfer psaserv      4096 May  3  2017 ..
--rw-r--r--   1 sgtransfer psacln        183 Mar 23  2017 autoload.php
-drwxr-xr-x   5 sgtransfer psacln       4096 Mar 22  2017 bootstrap
-drwxr-xr-x   2 sgtransfer psacln       4096 Mar 23  2017 composer
-drwxr-xr-x   6 sgtransfer psacln       4096 Mar 22  2017 font-awesome
-drwxr-xr-x   2 sgtransfer psacln       4096 Mar 22  2017 jquery
-drwxr-xr-x   3 sgtransfer psacln       4096 Mar 23  2017 mandrill
